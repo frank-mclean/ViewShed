@@ -10,5 +10,5 @@ ViewShed is currently only working on top of the (fantastic) [ESRI](http://esri.
 3. On document load, call ViewShedInit().
 4. Voila!  ViewShed will listen to clicks on your map (see Dependencies, above) and just work as a 'view shed' should obviously work.
 
-[Demo!]: (viewshed-demo.html)
+[Demo!](viewshed-demo.html)
 
